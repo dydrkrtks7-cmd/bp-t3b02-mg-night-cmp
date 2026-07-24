@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>당산 가라오케 초보 안내</title>
+  <rect width="64" height="64" rx="16" fill="hsl(153 57% 35%)"/>
+  <g transform="rotate(0 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(153 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(286 68% 67%)"/></g>
+</svg>
